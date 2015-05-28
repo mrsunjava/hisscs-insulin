@@ -1,0 +1,1 @@
+This project tries to simulate an Insulin Pump. The project is part of a lecture in safety critical systems at the University of Applied Science in Frankfurt / Main, Germany
